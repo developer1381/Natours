@@ -1,0 +1,8 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natours is a website that provides tours in nature.",
+  "main": "index.js",
+  "author": "Zero Developer",
+  "license": "ISC"
+}
